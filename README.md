@@ -65,7 +65,7 @@ Here are some of the key pages and features available on the platform:
   ![Home Page Screenshot](images/homepage.png)
 
 - **Job Search Results**: This page shows the results of job search queries with filtering options for job seekers to refine their search.
-  ![Job Search Results Screenshot](images/job-search.png)
+  ![Job Search Results Screenshot](/home/mederhoo/Desktop/alx/alx_mederhoo/Job_Seekers_project/alx_job_seek/screenshots/one.png)
 
 - **Add New Job (Employer)**: Employers can create a new job listing by filling out a simple form with job details like job title, description, and requirements.
   ![Add New Job Screenshot](images/add-job.png)
