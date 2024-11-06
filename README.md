@@ -62,13 +62,13 @@ Visit `http://127.0.0.1:8000/` in your browser to view the application.
 Here are some of the key pages and features available on the platform:
 
 - **Home Page**: The homepage displays featured job listings, categories, and quick links to search for jobs or post a job.
-  ![Home Page Screenshot](images/homepage.png)
+  ![Home Page Screenshot](screenshots/one.png)
 
 - **Job Search Results**: This page shows the results of job search queries with filtering options for job seekers to refine their search.
-  ![Job Search Results Screenshot](/home/mederhoo/Desktop/alx/alx_mederhoo/Job_Seekers_project/alx_job_seek/screenshots/one.png)
+  ![Job Search Results Screenshot](screenshots/two.png)
 
 - **Add New Job (Employer)**: Employers can create a new job listing by filling out a simple form with job details like job title, description, and requirements.
-  ![Add New Job Screenshot](images/add-job.png)
+  ![Add New Job Screenshot](screenshots/three.png)
 
 - **Job Details**: The job details page displays a comprehensive job description, requirements, and application instructions.
   ![Job Details Screenshot](images/job-details.png)
